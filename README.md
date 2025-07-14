@@ -1,5 +1,5 @@
 # Project Overview
-This is a kaggle competition I joined in my Advanded Machine learning Course 
+This project was completed as part of my Advanced Machine Learning course and was done in collaboration with two colleagues.
 
 This project focuses on solving a semi-supervised learning problem using the UCI
 Heart Disease dataset. The dataset contains both labeled and unlabeled data, where the target column
